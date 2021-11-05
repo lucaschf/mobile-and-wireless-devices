@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleButton</string>
+    <string name="create_button">Create button</string>
+    <string name="click_or_hold_me">Click or hold me!</string>
+</resources>
