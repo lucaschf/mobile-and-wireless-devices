@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_purple">#7B1FA2</color>
+    <color name="deep_pink">#E91E63</color>
+    <color name="deep_pink_1">#C2185B</color>
+    <color name="deep_orange">#E64A19</color>
+    <color name="deep_orange_1">#FF5722</color>
+
+
+    <!--Other-->
+    <color name="green_900">#006800</color>
+    <color name="green_800">#008700</color>
+    <color name="green_700">#009800</color>
+    <color name="green_600">#09Ab00</color>
+    <color name="green_500">#1DBA0f</color>
+    <color name="green_400">#4EC543</color>
+    <color name="green_300">#73D068</color>
+    <color name="green_200">#9EDD95</color>
+    <color name="green_100">#C5EABF</color>
+    <color name="green_50">#E7F7E5</color>
+
+    <color name="light200">#FFEEEEEE</color>
+    <color name="deep_darker_gray">#757575</color>
+    <color name="grey">#5D6267</color>
+
+    <color name="paleGray">#F5F6FA</color>
+    <color name="pale_yellow">#FDD663</color>
+
+    <color name="overlay_dark_5">#0D000000</color>
+    <color name="overlay_dark_10">#1A000000</color>
+    <color name="overlay_dark_7">#33FFFFFF</color>
+
+    <color name="gold">#FFC107</color>
+    <color name="green1">#43a047</color>
+    <color name="materialRed">#ff5252</color>
+    <color name="materialBlue">#448aff</color>
+
+    <color name="overlay_light_10">#1AFFFFFF</color>
+    <color name="overlay_light_20">#33FFFFFF</color>
+    <color name="overlay_light_30">#4DFFFFFF</color>
+    <color name="overlay_light_40">#66FFFFFF</color>
+    <color name="overlay_light_50">#8FFFFFF0</color>
+    <color name="overlay_light_60">#99FFFFFF</color>
+    <color name="overlay_light_70">#B3FFFFFF</color>
+    <color name="overlay_light_80">#CCFFFFFF</color>
+    <color name="overlay_light_90">#E6FFFFFF</color>
+
+    <color name="overlay_dark_20">#33000000</color>
+    <color name="overlay_dark_30">#4D000000</color>
+    <color name="overlay_dark_40">#66000000</color>
+    <color name="overlay_dark_50">#80000000</color>
+    <color name="overlay_dark_60">#99000000</color>
+    <color name="overlay_dark_70">#B3000000</color>
+    <color name="overlay_dark_80">#CC000000</color>
+    <color name="overlay_dark_90">#E6000000</color>
+</resources>
