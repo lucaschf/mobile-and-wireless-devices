@@ -86,7 +86,6 @@ public class MainActivity extends AppCompatActivity {
             btn.setBackgroundColor(ContextCompat.getColor(this, colors.get(i)));
             btn.setTag(R.string.tag_btn_color, colors.get(i));
             btn.setTag(R.string.tag_btn_guess, values.get(i));
-            btn.setVisibility(View.VISIBLE);
             btn.setOnClickListener(b -> takeGuess((Button) b));
         }
     }
@@ -121,10 +120,10 @@ public class MainActivity extends AppCompatActivity {
         guessCount = 0;
         if (regenerateSequence) {
             setUpGuessButtons();
-        } else {
-            for (Button button : buttons) {
-                button.setVisibility(View.VISIBLE);
-            }
+        }
+
+        for (Button button : buttons) {
+            button.setVisibility(View.VISIBLE);
         }
     }
 
